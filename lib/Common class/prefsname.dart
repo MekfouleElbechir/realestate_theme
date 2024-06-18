@@ -1,0 +1,13 @@
+const isDarkMode = "isdark";
+// const UDUserId = "UD_user_id";
+// const UDUserRegisterId = "UD_user_register_id";
+// const UDUserName = "UD_user_name";
+// const UDUserMobile = "UD_user_mobile";
+// const UDUserEmail = "UD_user_email";
+// const UDUserImage = "UD_user_image";
+// const UDMinPrice = "UD_min_price";
+// const UDMaxPrice = "UD_max_price";
+// const UDTypeIndex = "UD_type_index";
+// const PRTypeSize = "PR_type_size";
+// const PRTypePrice = "PR_type_price";
+// const PRTypeOriginalprice = "PR_type_originalprice";
